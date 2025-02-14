@@ -1,0 +1,1 @@
+Der Unterschied ist, dass foo und bar.txt commited wurden aber die anderen files noch nicht
