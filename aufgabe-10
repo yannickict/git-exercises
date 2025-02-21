@@ -1,0 +1,3 @@
+1. Nur das File bei dem man rm ohne "git" gemacht hat wird als deleted angezeigt
+2. git restore --source=HEAD -- <File>
+3. git mv ist besser, da git das auch versteht. Bei mv wird für git sonst ein File gelöscht und ein anderes erstellt
